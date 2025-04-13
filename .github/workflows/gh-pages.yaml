@@ -1,11 +1,11 @@
 # .github/workflows/gh-pages.yml
 
+
+# This workflow is from blowfish document, but it seems not work.
 name: GitHub Pages
 
 on:
-  push:
-    branches:
-      - master
+  workflow_dispatch:
 
 jobs:
   build-deploy:
