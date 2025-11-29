@@ -3,7 +3,7 @@ title: Start
 description: A new Start.
 slug: 0-start
 date: 2025-11-29 19:30:00+0800
-image: cover.jpg
+image: cover.png
 categories:
     - daily
 tags:
