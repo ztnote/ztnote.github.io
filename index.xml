@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ZTNote</title><link>https://ztnote.github.io/</link><description>Recent content on ZTNote</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 30 Dec 2025 14:30:00 +0800</lastBuildDate><atom:link href="https://ztnote.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Start</title><link>https://ztnote.github.io/p/000-start/</link><pubDate>Sat, 29 Nov 2025 19:30:00 +0800</pubDate><guid>https://ztnote.github.io/p/000-start/</guid><description>&lt;img src="https://ztnote.github.io/p/000-start/cover.png" alt="Featured image of post Start" /&gt;&lt;p&gt;生命不息，折腾不止。&lt;/p&gt;
+&lt;h2 id="起因"&gt;起因
+&lt;/h2&gt;&lt;p&gt;这是一个折腾笔记。&lt;br&gt;
+每次学到一点新的东西，总是记录的零零散散，到最后自己都找不到，然后需要用到的时候又要重新查找。&lt;br&gt;
+于是乎，就有了这个站点。&lt;/p&gt;</description></item><item><title>Archives</title><link>https://ztnote.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://ztnote.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://ztnote.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ztnote.github.io/links/</guid><description>&lt;p&gt;Some Links.&lt;/p&gt;
+&lt;!-- To use this feature, add `links` section to frontmatter.
+This page's frontmatter:
+```yaml
+links:
+- title: GitHub
+description: GitHub is the world's largest software development platform.
+website: https://github.com
+image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+- title: TypeScript
+description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+website: https://www.typescriptlang.org
+image: ts-logo-128.jpg
+```
+`image` field accepts both local and external images. --&gt;</description></item><item><title>Search</title><link>https://ztnote.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ztnote.github.io/search/</guid><description/></item></channel></rss>
